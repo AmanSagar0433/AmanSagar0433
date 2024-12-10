@@ -17,7 +17,7 @@ A full-stack MERN developer specialized in building real-time applications using
 
 ## 💼 Internship
 
-During my internship at **Quantum IT Innovation**, I worked on Android application development, gaining hands-on experience with Kotlin, Jetpack compose, Rest apis, and other Android technologies. This experience honed my skills in delivering scalable, user-focused mobile applications.
+During my internship at **Quantum IT Innovation**, I worked on Android application development, gaining hands-on experience with Kotlin, Jetpack compose, Rest apis, and other Android technologies.
 
 ![Internship Certificate](./Files/quantum-it-internship.png)
 
