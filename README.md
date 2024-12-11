@@ -25,6 +25,9 @@ During my internship at **Quantum IT Innovation**, I worked on Android applicati
 
 [![AmanSagar0433/MessagingApp - GitHub](https://gh-card.dev/repos/AmanSagar0433/MessagingApp.svg)](https://github.com/AmanSagar0433/MessagingApp)
 
+## 💻 Coding skill
+[![LeetCode Profile](https://leetcard.jacoblin.cool/aman043358sagar?theme=dark&font=Hind)](https://leetcode.com/aman043358sagar/)
+
 🔍 __Currently looking for remote work opportunities__ 
 
 <br>
